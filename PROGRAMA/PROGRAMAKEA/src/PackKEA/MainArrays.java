@@ -10,15 +10,6 @@ public class MainArrays {
 		int[] prodArray = {6, 8, 20, 23, 12};
 		
 		// User 1 fer la suma dels elements de sumArray
-		
-		
-		
-		// User 2 fer la resta dels elements de subArray
-		
-		
-		
-		// User 3 fer la multiplicació dels elements de prodArray
-
 		// Declaración del arreglo
         int[] SumArray = {4, 36, 4, 23, 867};
 
@@ -32,5 +23,13 @@ public class MainArrays {
 
         // Mostrar el resultado
         System.out.println("La suma de los elementos es: " + suma);
+		
+		
+		// User 2 fer la resta dels elements de subArray
+		
+		
+		
+		// User 3 fer la multiplicació dels elements de prodArray
+
     }
 }
