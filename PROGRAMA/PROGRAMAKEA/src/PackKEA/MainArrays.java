@@ -26,7 +26,19 @@ public class MainArrays {
 		
 		
 		// User 2 fer la resta dels elements de subArray
-		
+		// Declaración del arreglo
+        int[] SubArray = {785675, 56, 5675, 56544, 234};
+
+        // Variable para almacenar la resta
+        int resta = 0;
+
+        // Bucle para recorrer el arreglo y resta los elementos
+        for (int num : subArray) {
+            resta -= num;
+        }
+
+        // Mostrar el resultado
+        System.out.println("La resta de los elementos es: " + resta);
 		
 		
 		// User 3 fer la multiplicació dels elements de prodArray
