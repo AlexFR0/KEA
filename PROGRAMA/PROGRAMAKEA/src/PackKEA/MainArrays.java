@@ -43,5 +43,12 @@ public class MainArrays {
 		
 		// User 3 fer la multiplicació dels elements de prodArray
 
+		
+		int resultado = 1; 
+		for (int i = 0; i < prodArray.length; i++) { resultado *= prodArray[i]; }
+	}
+	
+	
+
     }
-}
+
